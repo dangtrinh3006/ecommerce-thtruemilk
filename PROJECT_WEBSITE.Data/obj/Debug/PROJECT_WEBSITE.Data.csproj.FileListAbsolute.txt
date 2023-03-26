@@ -1,0 +1,74 @@
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PagedList.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\Accord.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PagedList.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.AssemblyReference.cache
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CoreCompileInputs.cache
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CopyComplete
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.pdb
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll.config
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll.config
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.pdb
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.xml
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.xml
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.xml
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.xml
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CoreCompileInputs.cache
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CopyComplete
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CoreCompileInputs.cache
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CopyComplete
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PROJECT_WEBSITE.Data.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\Accord.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\bin\Debug\PagedList.Mvc.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.AssemblyReference.cache
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CoreCompileInputs.cache
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.csproj.CopyComplete
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.Data\obj\Debug\PROJECT_WEBSITE.Data.pdb

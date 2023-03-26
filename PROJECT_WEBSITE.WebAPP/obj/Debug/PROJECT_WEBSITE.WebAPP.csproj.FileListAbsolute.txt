@@ -1,0 +1,248 @@
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Accord.dll.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.rsp
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.exe
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.rsp
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.AppContext.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.rsp
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\CKFinder.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PagedList.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\WebGrease.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Accord.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll.config
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\CKFinder.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PagedList.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.pdb
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Accord.xml
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\bin\Select.Html.dep
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.AssemblyReference.cache
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CoreCompileInputs.cache
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CopyComplete
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.dll
+C:\Users\HoangLong\source\repos\PROJECT_WEBSITE\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.pdb
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.dll
+E:\1.TriTueViet\03012022\TriTueViet\Tai Lieu Luan Van\268.Nghiên cứu thuật toán TKU khai thác tập hữu ích cao top- k và ứng dụng\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.AssemblyReference.cache
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CoreCompileInputs.cache
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.rsp
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.exe
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.rsp
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.AppContext.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Collections.Immutable.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Reflection.Metadata.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.rsp
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\CKFinder.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.Web.Infrastructure.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\WebGrease.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\CKFinder.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\bin\Select.Html.dep
+E:\1.TriTueViet\03012022\9.GiaoHang\268\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CopyComplete
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.dll.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.WebAPP.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.exe.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csc.rsp
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.exe
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\csi.rsp
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.AppContext.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.exe.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\vbc.rsp
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\CKFinder.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\WebGrease.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PROJECT_WEBSITE.Data.dll.config
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\CKFinder.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\ClosedXML.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\DocumentFormat.OpenXml.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\ExcelNumberFormat.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\PagedList.Mvc.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Select.HtmlToPdf.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Helpers.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Mvc.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Optimization.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.Razor.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\System.Web.WebPages.Razor.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Newtonsoft.Json.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Antlr3.Runtime.pdb
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Accord.xml
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\bin\Select.Html.dep
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.AssemblyReference.cache
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CoreCompileInputs.cache
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.csproj.CopyComplete
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.dll
+C:\Users\luan\Desktop\Môn học\Dự án 2\Top-K-DACNTT-2\Code\PROJECT_WEBSITE.WebAPP\obj\Debug\PROJECT_WEBSITE.WebAPP.pdb
